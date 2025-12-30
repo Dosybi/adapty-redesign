@@ -1,0 +1,2616 @@
+{
+  "meta": {
+    "url": "https://adapty.io/",
+    "capturedAt": "2025-12-30T06:11:27.659Z",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "viewport": {
+      "w": 1440,
+      "h": 900
+    }
+  },
+  "textNodes": [
+    {
+      "kind": "heading",
+      "tag": "H1",
+      "text": "Revenue management for in-app purchases",
+      "domPath": "h1, h2, h3, h4, h5, h6[0]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H2",
+      "text": "Trusted by 15,000+ apps and the world's largest app publishers",
+      "domPath": "h1, h2, h3, h4, h5, h6[1]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H2",
+      "text": "Help your team run the mobile subscription business. Faster and cheaper.",
+      "domPath": "h1, h2, h3, h4, h5, h6[2]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H2",
+      "text": "Adapty processes subscription revenue with the industry’s highest SLA Rate",
+      "domPath": "h1, h2, h3, h4, h5, h6[3]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H2",
+      "text": "Integrate in-app purchases with a few lines of code",
+      "domPath": "h1, h2, h3, h4, h5, h6[4]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H2",
+      "text": "Get the SDK for your platform",
+      "domPath": "h1, h2, h3, h4, h5, h6[5]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Swift SDK",
+      "domPath": "h1, h2, h3, h4, h5, h6[6]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Kotlin SDK",
+      "domPath": "h1, h2, h3, h4, h5, h6[7]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "React Native SDK",
+      "domPath": "h1, h2, h3, h4, h5, h6[8]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Unity SDK",
+      "domPath": "h1, h2, h3, h4, h5, h6[9]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Flutter SDK",
+      "domPath": "h1, h2, h3, h4, h5, h6[10]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Capacitor SDK",
+      "domPath": "h1, h2, h3, h4, h5, h6[11]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Kotlin Multiplatform",
+      "domPath": "h1, h2, h3, h4, h5, h6[12]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "FlutterFlow",
+      "domPath": "h1, h2, h3, h4, h5, h6[14]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Web API",
+      "domPath": "h1, h2, h3, h4, h5, h6[15]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Stripe",
+      "domPath": "h1, h2, h3, h4, h5, h6[16]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Increase subscription revenue without app releases",
+      "domPath": "h1, h2, h3, h4, h5, h6[17]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Cut refund rate by 40%",
+      "domPath": "h1, h2, h3, h4, h5, h6[18]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Know your subscription numbers at any moment",
+      "domPath": "h1, h2, h3, h4, h5, h6[19]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "No-code paywall builder",
+      "domPath": "h1, h2, h3, h4, h5, h6[20]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Boost app revenue fast with web funnels",
+      "domPath": "h1, h2, h3, h4, h5, h6[21]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Sync purchase data with other services",
+      "domPath": "h1, h2, h3, h4, h5, h6[22]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H2",
+      "text": "Developers from all kind of apps move to Adapty to grow their revenue",
+      "domPath": "h1, h2, h3, h4, h5, h6[23]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H2",
+      "text": "Enterprise-grade platform",
+      "domPath": "h1, h2, h3, h4, h5, h6[24]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Secure",
+      "domPath": "h1, h2, h3, h4, h5, h6[25]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Reliable",
+      "domPath": "h1, h2, h3, h4, h5, h6[26]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H3",
+      "text": "Responsive",
+      "domPath": "h1, h2, h3, h4, h5, h6[27]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H2",
+      "text": "Trusted for usability and customer service",
+      "domPath": "h1, h2, h3, h4, h5, h6[28]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H2",
+      "text": "Read the real cases of our customers",
+      "domPath": "h1, h2, h3, h4, h5, h6[29]"
+    },
+    {
+      "kind": "heading",
+      "tag": "H2",
+      "text": "Get started today or schedule a demo for your personal onboarding",
+      "domPath": "h1, h2, h3, h4, h5, h6[30]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "EN",
+      "href": "#",
+      "domPath": "a[href][1]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Blog",
+      "href": "https://adapty.io/blog/",
+      "ariaLabel": "Blog",
+      "domPath": "a[href][136]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Pricing",
+      "href": "https://adapty.io/pricing/",
+      "ariaLabel": "Pricing",
+      "domPath": "a[href][137]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "web2app",
+      "href": "https://funnelfox.com/?utm_source=adapty&utm_medium=website&utm_campaign=menu&__hstc=21428196.111ee13981b657a7fddb21f5891f6ac3.1767075077367.1767075077367.1767075077367.1&__hssc=21428196.1.1767075077367&__hsfp=1009270598",
+      "ariaLabel": "Blog",
+      "domPath": "a[href][138]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Log in",
+      "href": "https://app.adapty.io/login",
+      "domPath": "a[href][139]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Sign up",
+      "href": "https://app.adapty.io/registration",
+      "domPath": "a[href][141]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Contact sales",
+      "href": "https://adapty.io/schedule-demo/",
+      "domPath": "a[href][142]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Ebook $100K playbook | download",
+      "href": "https://adapty.io/ebooks/100k-app-playbook/",
+      "domPath": "a[href][146]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Book a demo",
+      "href": "https://adapty.io/schedule-demo/",
+      "domPath": "a[href][147]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "For developers Subscriptions SDK Refund Saver Remote config Fallback paywalls",
+      "href": "https://adapty.io/for-developers/",
+      "domPath": "a[href][148]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "For app owners Revenue analytics LTV analytics AI LTV and revenue predictions",
+      "href": "https://adapty.io/for-app-owners/",
+      "domPath": "a[href][149]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "For marketers A/B testing No-code Builder Localizations Targeting",
+      "href": "https://adapty.io/for-marketers/",
+      "domPath": "a[href][150]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Make subscriptions easy",
+      "href": "https://adapty.io/sdk/",
+      "domPath": "a[href][151]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Go to GitHub",
+      "href": "https://github.com/adaptyteam/AdaptySDK-iOS",
+      "domPath": "a[href][153]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Swift SDK",
+      "href": "https://adapty.io/sdk/ios/",
+      "ariaLabel": "Swift SDK",
+      "domPath": "a[href][162]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Kotlin SDK",
+      "href": "https://adapty.io/sdk/android/",
+      "ariaLabel": "Kotlin SDK",
+      "domPath": "a[href][163]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "React Native SDK",
+      "href": "https://adapty.io/sdk/react-native/",
+      "ariaLabel": "React Native SDK",
+      "domPath": "a[href][164]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Unity SDK",
+      "href": "https://adapty.io/sdk/unity/",
+      "ariaLabel": "Unity SDK",
+      "domPath": "a[href][165]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Flutter SDK",
+      "href": "https://adapty.io/sdk/flutter/",
+      "ariaLabel": "Flutter SDK",
+      "domPath": "a[href][166]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Capacitor SDK",
+      "href": "https://adapty.io/sdk/capacitor/",
+      "ariaLabel": "Capacitor SDK",
+      "domPath": "a[href][167]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Kotlin Multiplatform",
+      "href": "https://adapty.io/sdk/kmp/",
+      "ariaLabel": "Kotlin Multiplatform (KMP) SDK",
+      "domPath": "a[href][168]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "FlutterFlow",
+      "href": "https://adapty.io/sdk/flutterflow/",
+      "ariaLabel": "FlutterFlow",
+      "domPath": "a[href][169]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Web API",
+      "href": "https://adapty.io/sdk/web/",
+      "ariaLabel": "Web API",
+      "domPath": "a[href][170]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Stripe",
+      "href": "https://adapty.io/integrations/stripe/",
+      "ariaLabel": "Stripe Integrations",
+      "domPath": "a[href][171]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Increase app revenue",
+      "href": "https://adapty.io/paywall-ab-testing/",
+      "domPath": "a[href][172]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Set up Refund Saver",
+      "href": "https://adapty.io/refund-saver/",
+      "domPath": "a[href][173]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "See subscription BI",
+      "href": "https://adapty.io/ltv-analytics/",
+      "domPath": "a[href][174]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Create paywalls within minutes",
+      "href": "https://adapty.io/paywall-builder/",
+      "domPath": "a[href][175]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Explore FunnelFox",
+      "href": "https://funnelfox.com/?__hstc=21428196.111ee13981b657a7fddb21f5891f6ac3.1767075077367.1767075077367.1767075077367.1&__hssc=21428196.1.1767075077367&__hsfp=1009270598",
+      "domPath": "a[href][176]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Explore integrations",
+      "href": "https://adapty.io/integrations/",
+      "domPath": "a[href][199]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "99.99% SLA",
+      "href": "https://status.adapty.io/?_ga=2.123025353.339646607.1672001945-1139331965.1672001945",
+      "domPath": "a[href][200]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Based on 500+ reviews",
+      "href": "https://www.g2.com/products/adapty-io/reviews",
+      "domPath": "a[href][201]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Productivity app Productivity +50% in total revenue How pricing tests unlocked app's potential Read more",
+      "href": "/case-studies/productivity-app-and-autopilot/",
+      "ariaLabel": "/case-studies/productivity-app-and-autopilot/",
+      "domPath": "a[href][207]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Text on Pic Photo & Video Over 30% MRR growth How to boost revenue with the right experiments Read more",
+      "href": "/case-studies/photo-editing-app-and-autopilot/",
+      "ariaLabel": "/case-studies/photo-editing-app-and-autopilot/",
+      "domPath": "a[href][208]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Trip planning Travel +102% ARPU growth New onboarding and pricing strategy doubled revenue per user Read more",
+      "href": " /case-studies/travel-app/",
+      "ariaLabel": " /case-studies/travel-app/",
+      "domPath": "a[href][209]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Going Merry App publisher 5x MRR growth How to scale subscription revenue with Paywall Builder Read more",
+      "href": "/case-studies/going-merry/",
+      "ariaLabel": "/case-studies/going-merry/",
+      "domPath": "a[href][210]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Shmoody Mental health ARR scaled from $0 to $2M How to grow from a free app to $2M ARR with Adapty Read more",
+      "href": "/case-studies/shmoody/",
+      "ariaLabel": "/case-studies/shmoody/",
+      "domPath": "a[href][211]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Lively Health & Fitness Refund rate dropped by 83% Saved 82% of potentially lost revenue Read more",
+      "href": "/case-studies/lively/",
+      "ariaLabel": "/case-studies/lively/",
+      "domPath": "a[href][212]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Glam AI Makeup & Beauty ROAS from Adapty – 108% How to scale to $1.2M ARR in 3 months Read more",
+      "href": "/case-studies/glam-ai/",
+      "ariaLabel": "/case-studies/glam-ai/",
+      "domPath": "a[href][213]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Pepapp Health & Fitness 400% ROI on Adapty How to make Adapty free with Refund Saver Read more",
+      "href": "/case-studies/pepapp/",
+      "ariaLabel": "/case-studies/pepapp/",
+      "domPath": "a[href][214]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Fotorama Photo & Video Refund rate dropped 40% How to decrease the refund rate with Adapty Read more",
+      "href": "/case-studies/fotorama/",
+      "ariaLabel": "/case-studies/fotorama/",
+      "domPath": "a[href][215]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Read all cases",
+      "href": "https://adapty.io/case-studies/",
+      "domPath": "a[href][229]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "START FOR FREE",
+      "href": "https://app.adapty.io/registration",
+      "domPath": "a[href][230]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "SCHEDULE A DEMO",
+      "href": "/schedule-demo/",
+      "domPath": "a[href][231]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Paywall builder",
+      "href": "https://adapty.io/paywall-builder/",
+      "domPath": "a[href][240]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Onboarding builder",
+      "href": "https://adapty.io/onboarding-builder/",
+      "domPath": "a[href][241]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "AI generator",
+      "href": "https://adapty.io/ai-paywall-generator/",
+      "domPath": "a[href][242]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "A/B testing",
+      "href": "https://adapty.io/paywall-ab-testing/",
+      "domPath": "a[href][243]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Autopilot",
+      "href": "https://adapty.io/autopilot/",
+      "domPath": "a[href][244]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Targeting",
+      "href": "https://adapty.io/paywall-targeting/",
+      "domPath": "a[href][245]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Localization",
+      "href": "https://adapty.io/paywall-localization/",
+      "domPath": "a[href][246]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Remote config",
+      "href": "https://adapty.io/remote-config/",
+      "domPath": "a[href][247]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Subscription SDK",
+      "href": "https://adapty.io/sdk/",
+      "domPath": "a[href][248]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Subscriber sync",
+      "href": "https://adapty.io/subscription-sync/",
+      "domPath": "a[href][249]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Fallback paywalls",
+      "href": "https://adapty.io/fallback-paywalls/",
+      "domPath": "a[href][250]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Refund saver",
+      "href": "https://adapty.io/refund-saver/",
+      "domPath": "a[href][251]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Integrations",
+      "href": "https://adapty.io/integrations/",
+      "domPath": "a[href][252]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "For developers",
+      "href": "https://adapty.io/for-developers/",
+      "domPath": "a[href][253]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "For marketers",
+      "href": "https://adapty.io/for-marketers/",
+      "domPath": "a[href][254]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "For app owners",
+      "href": "https://adapty.io/for-app-owners/",
+      "domPath": "a[href][255]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Indie",
+      "href": "https://adapty.io/for-indie/",
+      "domPath": "a[href][256]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Startups",
+      "href": "https://adapty.io/for-startups/",
+      "domPath": "a[href][257]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Publishers",
+      "href": "https://adapty.io/for-publishers/",
+      "domPath": "a[href][258]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Enterprise",
+      "href": "https://adapty.io/for-enterprises/",
+      "domPath": "a[href][259]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Cases",
+      "href": "https://adapty.io/case-studies/",
+      "domPath": "a[href][260]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Integrate subscriptions",
+      "href": "https://adapty.io/subscription-integration/",
+      "domPath": "a[href][261]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Grow app revenue",
+      "href": "https://adapty.io/revenue-growth/",
+      "domPath": "a[href][262]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Analyze performance",
+      "href": "https://adapty.io/performance-analytics/",
+      "domPath": "a[href][263]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Read our cases",
+      "href": "https://adapty.io/case-studies/",
+      "ariaLabel": "View all adapty case studies",
+      "domPath": "a[href][264]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Migrate from",
+      "href": "https://adapty.io/compare/",
+      "domPath": "a[href][265]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "RevenueCat",
+      "href": "https://adapty.io/compare/revenuecat/",
+      "domPath": "a[href][266]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Purchasely",
+      "href": "https://adapty.io/compare/purchasely/",
+      "domPath": "a[href][267]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Qonversion",
+      "href": "https://adapty.io/compare/qonversion/",
+      "domPath": "a[href][268]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Superwall",
+      "href": "https://adapty.io/compare/superwall/",
+      "domPath": "a[href][269]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "SDK",
+      "href": "https://adapty.io/sdk/",
+      "domPath": "a[href][270]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "iOS",
+      "href": "https://adapty.io/sdk/ios/",
+      "domPath": "a[href][271]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Android",
+      "href": "https://adapty.io/sdk/android/",
+      "domPath": "a[href][272]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "React Native",
+      "href": "https://adapty.io/sdk/react-native/",
+      "domPath": "a[href][273]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Flutter",
+      "href": "https://adapty.io/sdk/flutter/",
+      "domPath": "a[href][274]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "FlutterFlow",
+      "href": "https://adapty.io/sdk/flutterflow/",
+      "domPath": "a[href][275]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Kotlin Multiplatform",
+      "href": "https://adapty.io/sdk/kmp/",
+      "domPath": "a[href][276]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Capacitor",
+      "href": "https://adapty.io/sdk/capacitor/",
+      "domPath": "a[href][277]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Unity",
+      "href": "https://adapty.io/sdk/unity/",
+      "domPath": "a[href][278]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Stripe",
+      "href": "https://adapty.io/integrations/stripe/",
+      "domPath": "a[href][279]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Blog",
+      "href": "https://adapty.io/blog/",
+      "domPath": "a[href][280]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Ebooks",
+      "href": "https://adapty.io/ebooks/",
+      "domPath": "a[href][281]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Podcast",
+      "href": "https://podcasts.apple.com/us/podcast/subhub-by-adapty-io/id1574462509",
+      "domPath": "a[href][282]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Webinars",
+      "href": "/webinars/",
+      "domPath": "a[href][283]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Events",
+      "href": "/events/",
+      "domPath": "a[href][284]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Glossary",
+      "href": "/glossary/",
+      "domPath": "a[href][285]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Documentation",
+      "href": "/docs/",
+      "domPath": "a[href][286]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Paywall library",
+      "href": "/paywall-library/",
+      "domPath": "a[href][287]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "LTV prediction model",
+      "href": "https://adapty.io/ltv-prediction-model/",
+      "domPath": "a[href][288]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Apple fiscal calendar",
+      "href": "https://adapty.io/apple-fiscal-calendar/",
+      "domPath": "a[href][289]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Apple receipt checker",
+      "href": "https://adapty.io/apple-receipt-checker/",
+      "domPath": "a[href][290]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Subscription calculator",
+      "href": "https://adapty.io/subscription-app-revenue-calculator/",
+      "domPath": "a[href][291]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Refund saver calculator",
+      "href": "https://adapty.io/refund-calculator/",
+      "domPath": "a[href][292]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "In-app subscription reports",
+      "href": "https://adapty.io/state-of-in-app-subscriptions/",
+      "domPath": "a[href][293]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Community",
+      "href": "https://adapty.io/community/",
+      "domPath": "a[href][294]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Revenue analytics",
+      "href": "https://adapty.io/revenue-analytics/",
+      "domPath": "a[href][295]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "LTV analytics",
+      "href": "https://adapty.io/ltv-analytics/",
+      "domPath": "a[href][296]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "AI predictive analytics",
+      "href": "https://adapty.io/predictive-analytics/",
+      "domPath": "a[href][297]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Apple ads manager",
+      "href": "https://adapty.io/apple-ads-manager/",
+      "domPath": "a[href][298]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "About us",
+      "href": "https://adapty.io/about-us/",
+      "domPath": "a[href][299]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Contact us",
+      "href": "https://adapty.io/contacts/",
+      "domPath": "a[href][300]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Careers",
+      "href": "https://adapty.io/careers/",
+      "domPath": "a[href][301]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Terms",
+      "href": "https://adapty.io/terms/",
+      "domPath": "a[href][302]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Privacy policy",
+      "href": "https://adapty.io/privacy/",
+      "domPath": "a[href][303]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Data protection",
+      "href": "https://adapty.io/data-processing-agreement/",
+      "domPath": "a[href][304]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "System status",
+      "href": "https://status.adapty.io/?_ga=2.123025353.339646607.1672001945-1139331965.1672001945",
+      "domPath": "a[href][305]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "SOC2 compliance",
+      "href": "https://adapty.trustshare.com/home",
+      "domPath": "a[href][306]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "Become a partner",
+      "href": "https://adapty.io/partnerships/",
+      "domPath": "a[href][307]"
+    },
+    {
+      "kind": "link",
+      "tag": "A",
+      "text": "English",
+      "href": "#",
+      "domPath": "a[href][308]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "EN",
+      "domPath": "li[0]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Product",
+      "domPath": "li[12]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Cases",
+      "domPath": "li[13]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Resources",
+      "domPath": "li[14]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Docs",
+      "domPath": "li[15]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Blog",
+      "domPath": "li[16]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Pricing",
+      "domPath": "li[17]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "web2app",
+      "domPath": "li[18]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "SOC2 verified",
+      "domPath": "li[24]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Encrypted",
+      "domPath": "li[25]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "24/7 global fraud monitoring",
+      "domPath": "li[26]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "99.99% SLA",
+      "domPath": "li[27]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Over $500M/year of in-app purchases processed",
+      "domPath": "li[28]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Dedicated customer success manager",
+      "domPath": "li[29]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Direct communication via Slack",
+      "domPath": "li[30]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Live chat on the website",
+      "domPath": "li[31]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "Four ways to reach us",
+      "domPath": "li[32]"
+    },
+    {
+      "kind": "listItem",
+      "tag": "LI",
+      "text": "English",
+      "domPath": "li[49]"
+    },
+    {
+      "kind": "placeholder",
+      "tag": "INPUT",
+      "text": "Email address",
+      "domPath": "input[placeholder], textarea[placeholder][1]"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://d.adroll.com/cm/b/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[0]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/bombora/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[1]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/experian/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[2]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/eyeota/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[3]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/g/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[4]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/index/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[5]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/l/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[6]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/n/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[7]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/o/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[8]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/outbrain/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[9]",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "url": "https://d.adroll.com/cm/pubmatic/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[10]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/taboola/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[11]",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "url": "https://d.adroll.com/cm/triplelift/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[12]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/x/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[13]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/b/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[14]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/bombora/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[15]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/experian/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[16]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/eyeota/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[17]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/g/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[18]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/index/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[19]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/l/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[20]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/n/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[21]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/o/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[22]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/outbrain/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[23]",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "url": "https://d.adroll.com/cm/pubmatic/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[24]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/taboola/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[25]",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "url": "https://d.adroll.com/cm/triplelift/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[26]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://d.adroll.com/cm/x/out?adroll_fpc=c3bb9e6cbfa12cc4d1fa159df6797e16-1767075074419&pv=31250365037.48812&arrfrr=https%3A%2F%2Fadapty.io%2F%3Frsid%3Dd29a53fc-41b8-4529-b395-431cb77e8d1a&advertisable=DAASYQBDNBA2HOIC5D6P7C",
+      "alt": "",
+      "domPath": "img[27]",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/adapty-paywall-demo-preview@2x.webp",
+      "alt": "Adapty Paywall Demo Preview",
+      "domPath": "img[226]",
+      "width": 360,
+      "height": 748,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/adapty-overview@2x.webp",
+      "alt": "Adapty Overview",
+      "domPath": "img[227]",
+      "width": 1268,
+      "height": 1060,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/logo-feeld-gray.svg",
+      "alt": "Feeld",
+      "domPath": "img[228]",
+      "width": 111,
+      "height": 22,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/logo-bumble-gray.svg",
+      "alt": "Bumble logo (gray)",
+      "domPath": "img[229]",
+      "width": 132,
+      "height": 22,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/weewoo.svg",
+      "alt": "Weewoo",
+      "domPath": "img[230]",
+      "width": 451,
+      "height": 88,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/AppNation.webp",
+      "alt": "AppNation",
+      "domPath": "img[231]",
+      "width": 704,
+      "height": 177,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/almus.svg",
+      "alt": "Almus",
+      "domPath": "img[232]",
+      "width": 247,
+      "height": 88,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/logo-text-impala-studios-gray.svg",
+      "alt": "Impala Studios gtay logo (without icon)",
+      "domPath": "img[233]",
+      "width": 178,
+      "height": 28,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/logo-hubx-gray.svg",
+      "alt": "HUBX",
+      "domPath": "img[234]",
+      "width": 84,
+      "height": 22,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/img-card-cover-sdk-install@2x.webp",
+      "alt": "Card Cover Sdk Install",
+      "domPath": "img[235]",
+      "width": 707,
+      "height": 396,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/icon-arrow-acute-angle-pink.svg",
+      "alt": "Arrow Acute Angle Pink",
+      "domPath": "img[236]",
+      "width": 8,
+      "height": 12,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/img-card-cover-charts@2x.webp",
+      "alt": "Card Cover Charts",
+      "domPath": "img[237]",
+      "width": 707,
+      "height": 396
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/icon-arrow-acute-angle-pink.svg",
+      "alt": "Arrow Acute Angle Pink",
+      "domPath": "img[238]",
+      "width": 8,
+      "height": 12,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/img-card-cover-paywalls@2x.webp",
+      "alt": "Card Cover Paywalls",
+      "domPath": "img[239]",
+      "width": 708,
+      "height": 396,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/icon-arrow-acute-angle-pink.svg",
+      "alt": "Arrow Acute Angle Pink",
+      "domPath": "img[240]",
+      "width": 8,
+      "height": 12,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/08/quotes-white.svg",
+      "alt": "Quotes (white)",
+      "domPath": "img[241]",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/Smitten_Color-Logo-Small-02.webp",
+      "alt": "Smitten",
+      "domPath": "img[242]",
+      "width": 220,
+      "height": 58
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/Magnus-Olafsson-Smitten@2x.webp",
+      "alt": "Magnus Olafsson Smitten",
+      "domPath": "img[243]",
+      "width": 161,
+      "height": 161
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/github-logo.svg",
+      "alt": "GitHub Logo",
+      "domPath": "img[244]",
+      "width": 78,
+      "height": 24,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/github-logo.svg",
+      "alt": "GitHub Logo",
+      "domPath": "img[245]",
+      "width": 78,
+      "height": 24
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/github-logo.svg",
+      "alt": "GitHub Logo",
+      "domPath": "img[246]",
+      "width": 78,
+      "height": 24,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/github-logo.svg",
+      "alt": "GitHub Logo",
+      "domPath": "img[247]",
+      "width": 78,
+      "height": 24,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/github-logo.svg",
+      "alt": "GitHub Logo",
+      "domPath": "img[248]",
+      "width": 78,
+      "height": 24,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-swift-64x64-1.svg",
+      "alt": "Swift Icon",
+      "domPath": "img[249]",
+      "width": 65,
+      "height": 64,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-kotlin-64x64-1.svg",
+      "alt": "Kotlin Icon",
+      "domPath": "img[251]",
+      "width": 64,
+      "height": 64,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-react-native-64x64-1.svg",
+      "alt": "Logo React Native",
+      "domPath": "img[253]",
+      "width": 65,
+      "height": 65,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-unity-white-64x64-1.svg",
+      "alt": "Unity Icon",
+      "domPath": "img[255]",
+      "width": 64,
+      "height": 64,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-flutter-64x64-1.svg",
+      "alt": "Logo Flutter",
+      "domPath": "img[257]",
+      "width": 65,
+      "height": 65,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/10/capacitor-logo.svg",
+      "alt": "Capacitor",
+      "domPath": "img[259]",
+      "width": 150,
+      "height": 150,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/10/kmp-logo.svg",
+      "alt": "KMP",
+      "domPath": "img[261]",
+      "width": 150,
+      "height": 150,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/09/icon-flutterflow-64x64-1.svg",
+      "alt": "FlutterFlow",
+      "domPath": "img[263]",
+      "width": 53,
+      "height": 53,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-web-64x64-1.svg",
+      "alt": "Logo Web",
+      "domPath": "img[265]",
+      "width": 65,
+      "height": 65,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/icon-stripe-64x64-1.svg",
+      "alt": "Logo Stripe",
+      "domPath": "img[267]",
+      "width": 65,
+      "height": 65,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/quotes.svg",
+      "alt": "",
+      "domPath": "img[269]",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/03/logo-smartist-black@2x.png",
+      "alt": "Logo Smartist Black",
+      "domPath": "img[271]",
+      "width": 321,
+      "height": 82
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/Ilgar-Tali-Smartist@2x.webp",
+      "alt": "Ilgar Tali Smartist",
+      "domPath": "img[272]",
+      "width": 161,
+      "height": 161
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/paywall-ab-testing@2x.webp",
+      "alt": "Paywall A/B testing",
+      "domPath": "img[273]",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/refund-rate@2x-768x576.webp",
+      "alt": "Refund Rate",
+      "domPath": "img[274]",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/quotes.svg",
+      "alt": "",
+      "domPath": "img[275]",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/12/app-icon-fotorama-original.webp",
+      "alt": "Fotorama",
+      "domPath": "img[277]",
+      "width": 460,
+      "height": 460
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/12/avatar-berk-cagatay-gray@3x.webp",
+      "alt": "Berk Çağatay Albayrak",
+      "domPath": "img[278]",
+      "width": 120,
+      "height": 120
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/quotes.svg",
+      "alt": "",
+      "domPath": "img[279]",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/app_icon_Moonly.svg",
+      "alt": "Moonly app icon",
+      "domPath": "img[281]",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/Nikolay.png",
+      "alt": "Nikolay",
+      "domPath": "img[282]",
+      "width": 160,
+      "height": 161
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/app-monetization-strategies@2x.webp",
+      "alt": "App Monetization Strategies",
+      "domPath": "img[283]",
+      "width": 1280,
+      "height": 960,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/no-code-paywall-builder@2x.webp",
+      "alt": "No Code Paywall Builder",
+      "domPath": "img[284]",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/quotes.svg",
+      "alt": "",
+      "domPath": "img[285]",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/app-icon-cat.png",
+      "alt": "App Icon Cat",
+      "domPath": "img[287]",
+      "width": 96,
+      "height": 97
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/Mike-McSweeney-Moodworks-inc@2x.webp",
+      "alt": "Mike McSweeney Moodworks Inc",
+      "domPath": "img[288]",
+      "width": 161,
+      "height": 161
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@2x-768x631.webp",
+      "alt": "FunnelFox",
+      "domPath": "img[289]",
+      "width": 1280,
+      "height": 1052,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/adapty-logo-white.svg",
+      "alt": "Adapty",
+      "domPath": "img[290]",
+      "width": 197,
+      "height": 52
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-airbridge.svg",
+      "alt": "Airbridge",
+      "domPath": "img[291]",
+      "width": 141,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-adjust.svg",
+      "alt": "Adjust",
+      "domPath": "img[292]",
+      "width": 141,
+      "height": 60,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-amazon-s3.svg",
+      "alt": "Amazon S3",
+      "domPath": "img[293]",
+      "width": 140,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-amplitude.svg",
+      "alt": "Amplitude",
+      "domPath": "img[294]",
+      "width": 140,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/04/icon-apple-ads-text.svg",
+      "alt": "Apple Ads",
+      "domPath": "img[295]",
+      "width": 116,
+      "height": 22,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-appsflyer.svg",
+      "alt": "AppFlyer",
+      "domPath": "img[296]",
+      "width": 141,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-appmetrica.svg",
+      "alt": "AppMetrica",
+      "domPath": "img[297]",
+      "width": 140,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-asapty.svg",
+      "alt": "Asapty",
+      "domPath": "img[298]",
+      "width": 141,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-branch.svg",
+      "alt": "Branch",
+      "domPath": "img[299]",
+      "width": 141,
+      "height": 60,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-braze.svg",
+      "alt": "Braze",
+      "domPath": "img[300]",
+      "width": 141,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/04/logo-facebook-blue-text.svg",
+      "alt": "Facebook Ads",
+      "domPath": "img[301]",
+      "width": 165,
+      "height": 31,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-firebase-and-ga.svg",
+      "alt": "Google Analytics and Firebase",
+      "domPath": "img[302]",
+      "width": 141,
+      "height": 60,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-google-cloud-storage.svg",
+      "alt": "Google Cloud Storage",
+      "domPath": "img[303]",
+      "width": 141,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-mixpanel.svg",
+      "alt": "mixpanel",
+      "domPath": "img[304]",
+      "width": 141,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-onesignal.svg",
+      "alt": "OneSignal",
+      "domPath": "img[305]",
+      "width": 141,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/posthog-logo-colorfull.svg",
+      "alt": "PostHog",
+      "domPath": "img[306]",
+      "width": 300,
+      "height": 53,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-pushwoosh.svg",
+      "alt": "PushWoosh",
+      "domPath": "img[307]",
+      "width": 141,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-split-metrics.svg",
+      "alt": "SplitMetrics",
+      "domPath": "img[308]",
+      "width": 140,
+      "height": 61,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/04/singular-logo-block.svg",
+      "alt": "Singular",
+      "domPath": "img[309]",
+      "width": 221,
+      "height": 60,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/04/icon-stripe-logo.svg",
+      "alt": "Stripe",
+      "domPath": "img[310]",
+      "width": 120,
+      "height": 60,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/tenjin_logo_color.svg",
+      "alt": "Tenjin",
+      "domPath": "img[311]",
+      "width": 221,
+      "height": 89,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-webhook.svg",
+      "alt": "WebHooks",
+      "domPath": "img[312]",
+      "width": 141,
+      "height": 60,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/quotes.svg",
+      "alt": "",
+      "domPath": "img[313]",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/logo-bickster.png",
+      "alt": "Bickster",
+      "domPath": "img[315]",
+      "width": 204,
+      "height": 80
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/avatar-chris-bick.webp",
+      "alt": "Avatar: Chris Bick",
+      "domPath": "img[316]",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/photo-Cem-Ortabas.webp",
+      "alt": "Cem Ortabas, Co-founder and CEO of HubX",
+      "domPath": "img[317]",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/logo-HabX-white.svg",
+      "alt": "HUBX",
+      "domPath": "img[318]",
+      "width": 83,
+      "height": 40
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/photo-Chris-Bick.webp",
+      "alt": "Chris Bick, Founder and CEO of Bickster",
+      "domPath": "img[319]",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/logo-bickster.png",
+      "alt": "Bickster",
+      "domPath": "img[320]",
+      "width": 204,
+      "height": 80
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/Asman.webp",
+      "alt": "Yalçın Özdemir, Founder & CEO of AppNation",
+      "domPath": "img[321]",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-AppNation-white.png",
+      "alt": "AppNation",
+      "domPath": "img[322]",
+      "width": 428,
+      "height": 107
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/Kyle2.webp",
+      "alt": "Kyle Smith, Head of data at Smitten Dating",
+      "domPath": "img[323]",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/Smitten_Color-Logo-Small-02.webp",
+      "alt": "Smitten",
+      "domPath": "img[324]",
+      "width": 220,
+      "height": 58
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/photo-Roi-Mulia.webp",
+      "alt": "Roi Mulia, Founder & CEO of SocialKit",
+      "domPath": "img[325]",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/logo-social-white.svg",
+      "alt": "SocialKit",
+      "domPath": "img[326]",
+      "width": 158,
+      "height": 41
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/03/g2-best_results-winter_2025.svg",
+      "alt": "G2 Award: Best Results, winter 2025",
+      "domPath": "img[327]",
+      "width": 116,
+      "height": 150,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/03/g2-high_performer-winter_2025.svg",
+      "alt": "G2 Award: High Performer, winter 2025",
+      "domPath": "img[328]",
+      "width": 116,
+      "height": 150,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/03/g2-best_usability-winter_2025.svg",
+      "alt": "G2 Award: Best Usability, winter 2025",
+      "domPath": "img[329]",
+      "width": 116,
+      "height": 150,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/03/g2-best_relationship-winter_2025.svg",
+      "alt": "G2 Award: Best Relationship, winter 2025",
+      "domPath": "img[330]",
+      "width": 116,
+      "height": 150,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/03/g2-most_implementable-winter_2025.svg",
+      "alt": "G2 Award: Most Implementable, winter 2025",
+      "domPath": "img[331]",
+      "width": 116,
+      "height": 150,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/12/app-icon-productivity-app@4x.webp",
+      "alt": "Productivity App",
+      "domPath": "img[332]",
+      "width": 192,
+      "height": 192,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/12/app-icon-text-on-pic@3x.webp",
+      "alt": "Text on Pic",
+      "domPath": "img[333]",
+      "width": 144,
+      "height": 144,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/11/logo-secret-app@3x.webp",
+      "alt": "Secret app",
+      "domPath": "img[334]",
+      "width": 144,
+      "height": 144,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/09/going-merry-app-logo.webp",
+      "alt": "Going Merry Logo",
+      "domPath": "img[335]",
+      "width": 144,
+      "height": 144,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/app-logo-shmoody.webp",
+      "alt": "Shmoody",
+      "domPath": "img[336]",
+      "width": 230,
+      "height": 230,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/04/app-logo-lively@2x.png",
+      "alt": "Lively",
+      "domPath": "img[337]",
+      "width": 96,
+      "height": 96,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/03/app-logo-glam-ai.webp",
+      "alt": "Glam AI",
+      "domPath": "img[338]",
+      "width": 246,
+      "height": 246,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/01/Pepapp-icon@2x.webp",
+      "alt": "Pepapp icon",
+      "domPath": "img[339]",
+      "width": 97,
+      "height": 96,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/12/app-icon-fotorama-original.webp",
+      "alt": "Fotorama",
+      "domPath": "img[340]",
+      "width": 460,
+      "height": 460,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/01/Pepapp-icon@2x.webp",
+      "alt": "Pepapp icon",
+      "domPath": "img[341]",
+      "width": 97,
+      "height": 96,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/12/app-icon-fotorama-original.webp",
+      "alt": "Fotorama",
+      "domPath": "img[342]",
+      "width": 460,
+      "height": 460,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/12/app-icon-productivity-app@4x.webp",
+      "alt": "Productivity App",
+      "domPath": "img[343]",
+      "width": 192,
+      "height": 192,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/12/app-icon-text-on-pic@3x.webp",
+      "alt": "Text on Pic",
+      "domPath": "img[344]",
+      "width": 144,
+      "height": 144,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/11/logo-secret-app@3x.webp",
+      "alt": "Secret app",
+      "domPath": "img[345]",
+      "width": 144,
+      "height": 144,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/09/going-merry-app-logo.webp",
+      "alt": "Going Merry Logo",
+      "domPath": "img[346]",
+      "width": 144,
+      "height": 144,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/app-logo-shmoody.webp",
+      "alt": "Shmoody",
+      "domPath": "img[347]",
+      "width": 230,
+      "height": 230,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/04/app-logo-lively@2x.png",
+      "alt": "Lively",
+      "domPath": "img[348]",
+      "width": 96,
+      "height": 96,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/03/app-logo-glam-ai.webp",
+      "alt": "Glam AI",
+      "domPath": "img[349]",
+      "width": 246,
+      "height": 246,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/01/Pepapp-icon@2x.webp",
+      "alt": "Pepapp icon",
+      "domPath": "img[350]",
+      "width": 97,
+      "height": 96,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/12/app-icon-fotorama-original.webp",
+      "alt": "Fotorama",
+      "domPath": "img[351]",
+      "width": 460,
+      "height": 460,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/12/app-icon-productivity-app@4x.webp",
+      "alt": "Productivity App",
+      "domPath": "img[352]",
+      "width": 192,
+      "height": 192,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/12/app-icon-text-on-pic@3x.webp",
+      "alt": "Text on Pic",
+      "domPath": "img[353]",
+      "width": 144,
+      "height": 144,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/adapty-logo-white.svg",
+      "alt": "Adapty",
+      "domPath": "img[354]",
+      "width": 197,
+      "height": 52,
+      "loading": "eager"
+    },
+    {
+      "url": "https://adapty.io/assets/plugins/sitepress-multilingual-cms/res/flags/en.svg",
+      "alt": "",
+      "domPath": "img[355]",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/adapty-paywall-demo-preview@1x.webp",
+      "alt": "",
+      "domPath": "picture[0] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/adapty-paywall-demo-preview@1x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/adapty-paywall-demo-preview@1.5x.webp",
+      "alt": "",
+      "domPath": "picture[0] > source[1]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/adapty-paywall-demo-preview@1.5x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/adapty-paywall-demo-preview@2x.webp",
+      "alt": "",
+      "domPath": "picture[0] > source[2]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/adapty-paywall-demo-preview@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/adapty-overview@1x.webp",
+      "alt": "",
+      "domPath": "picture[1] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/adapty-overview@1x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/adapty-overview@1.5x.webp",
+      "alt": "",
+      "domPath": "picture[1] > source[1]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/adapty-overview@1.5x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/adapty-overview@1.5x.webp",
+      "alt": "",
+      "domPath": "picture[1] > source[2]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/adapty-overview@1.5x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/adapty-overview@1.5x.webp",
+      "alt": "",
+      "domPath": "picture[1] > source[3]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/adapty-overview@1.5x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/adapty-overview@2x.webp",
+      "alt": "",
+      "domPath": "picture[1] > source[4]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/adapty-overview@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/img-card-cover-sdk-install@2x.webp",
+      "alt": "",
+      "domPath": "picture[2] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/img-card-cover-sdk-install@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/img-card-cover-charts@2x.webp",
+      "alt": "",
+      "domPath": "picture[3] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/img-card-cover-charts@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/02/img-card-cover-paywalls@2x.webp",
+      "alt": "",
+      "domPath": "picture[4] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/02/img-card-cover-paywalls@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/paywall-ab-testing@1.5x.webp",
+      "alt": "",
+      "domPath": "picture[5] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/05/paywall-ab-testing@1.5x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/paywall-ab-testing@2x.webp",
+      "alt": "",
+      "domPath": "picture[5] > source[1]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/05/paywall-ab-testing@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/paywall-ab-testing@1.5x.webp",
+      "alt": "",
+      "domPath": "picture[5] > source[2]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/05/paywall-ab-testing@1.5x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/paywall-ab-testing@2x.webp",
+      "alt": "",
+      "domPath": "picture[5] > source[3]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/05/paywall-ab-testing@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/refund-rate@1.5x.webp",
+      "alt": "",
+      "domPath": "picture[6] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/05/refund-rate@1.5x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/refund-rate@2x-1024x768.webp",
+      "alt": "",
+      "domPath": "picture[6] > source[1]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/05/refund-rate@2x-1024x768.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/refund-rate@1.5x.webp",
+      "alt": "",
+      "domPath": "picture[6] > source[2]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/05/refund-rate@1.5x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/05/refund-rate@2x-1024x768.webp",
+      "alt": "",
+      "domPath": "picture[6] > source[3]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/05/refund-rate@2x-1024x768.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/app-monetization-strategies.webp",
+      "alt": "",
+      "domPath": "picture[7] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2024/01/app-monetization-strategies.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/app-monetization-strategies@2x.webp",
+      "alt": "",
+      "domPath": "picture[7] > source[1]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2024/01/app-monetization-strategies@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/app-monetization-strategies.webp",
+      "alt": "",
+      "domPath": "picture[7] > source[2]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2024/01/app-monetization-strategies.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/app-monetization-strategies@2x.webp",
+      "alt": "",
+      "domPath": "picture[7] > source[3]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2024/01/app-monetization-strategies@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/no-code-paywall-builder.webp",
+      "alt": "",
+      "domPath": "picture[8] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2024/01/no-code-paywall-builder.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/no-code-paywall-builder@2x-1024x768.webp",
+      "alt": "",
+      "domPath": "picture[8] > source[1]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2024/01/no-code-paywall-builder@2x-1024x768.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/no-code-paywall-builder.webp",
+      "alt": "",
+      "domPath": "picture[8] > source[2]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2024/01/no-code-paywall-builder.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/no-code-paywall-builder@2x.webp",
+      "alt": "",
+      "domPath": "picture[8] > source[3]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2024/01/no-code-paywall-builder@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@1.5x.webp",
+      "alt": "",
+      "domPath": "picture[9] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@1.5x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@2x.webp",
+      "alt": "",
+      "domPath": "picture[9] > source[1]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@1.5x.webp",
+      "alt": "",
+      "domPath": "picture[9] > source[2]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@1.5x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@2x.webp",
+      "alt": "",
+      "domPath": "picture[9] > source[3]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@2x.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/photo-Cem-Ortabas.webp",
+      "alt": "",
+      "domPath": "picture[10] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2023/12/photo-Cem-Ortabas.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/photo-Chris-Bick.webp",
+      "alt": "",
+      "domPath": "picture[11] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2023/12/photo-Chris-Bick.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/Asman.webp",
+      "alt": "",
+      "domPath": "picture[12] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2024/02/Asman.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/Kyle2.webp",
+      "alt": "",
+      "domPath": "picture[13] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2024/02/Kyle2.webp"
+      ]
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2023/12/photo-Roi-Mulia.webp",
+      "alt": "",
+      "domPath": "picture[14] > source[0]",
+      "width": 0,
+      "height": 0,
+      "srcset": [
+        "https://adapty.io/assets/uploads/2023/12/photo-Roi-Mulia.webp"
+      ]
+    }
+  ],
+  "backgroundImages": [
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-swift-outline.svg",
+      "domPath": "a[1551]",
+      "tag": "A"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-kotlin-outline.svg",
+      "domPath": "a[1557]",
+      "tag": "A"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-react-outline.svg",
+      "domPath": "a[1563]",
+      "tag": "A"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-unity-outline.svg",
+      "domPath": "a[1569]",
+      "tag": "A"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-flutter-outline.svg",
+      "domPath": "a[1575]",
+      "tag": "A"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/10/capacitor-stroke-gradient-logo.webp",
+      "domPath": "a[1581]",
+      "tag": "A"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2025/10/kmp-stroke-gradient-logo.webp",
+      "domPath": "a[1587]",
+      "tag": "A"
+    },
+    {
+      "url": "https://wp-prod-new.adapty.io/assets/uploads/2024/09/icon-flutterflow-outline.svg",
+      "domPath": "a[1594]",
+      "tag": "A"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/01/icon-web-outline.svg",
+      "domPath": "a[1600]",
+      "tag": "A"
+    },
+    {
+      "url": "https://adapty.io/assets/uploads/2024/02/icon-stripe-outline.svg",
+      "domPath": "a[1606]",
+      "tag": "A"
+    }
+  ]
+}
