@@ -506,6 +506,8 @@ Deliverables
 
 Контент
 Используй объект code из content/home.json:
+
+```
 "code": {
 "title": "Integrate in-app purchases with a few lines of code",
 "description": "Integrate IAPs within a few hours without server coding. Adapty handles the correct subscription state, taking everything under the hood, from free trials to refunds, in a simple, developer-friendly SDK.",
@@ -525,30 +527,37 @@ Deliverables
 { "id": "unity", "label": "Unity", "language": "csharp", "code": "..." }
 ]
 }
+```
 
 ⸻
 
-Дизайн-цели 1. Вокруг кода — stage-подложка как у Polar: мягкий градиент + сильное скругление, но без кричащих цветов. 2. Переключатель языков — пилюли (shadcn ToggleGroup), расположен над кодом отдельной маленькой панелью (не “шапка IDE”). 3. Подсветка синтаксиса — Shiki (server-side). 4. Вся секция заметно темнее по цвету чем предыдущая, но не чёрная: аккуратный негрязный серый.
-⸻
+Дизайн-цели
+
+1. Вокруг кода — stage-подложка как у Polar: мягкий градиент + сильное скругление, но без кричащих цветов.
+2. Переключатель языков — пилюли (shadcn ToggleGroup), расположен над кодом отдельной маленькой панелью (не “шапка IDE”).
+3. Подсветка синтаксиса — Shiki (server-side). 4. Вся секция заметно темнее по цвету чем предыдущая, но не чёрная: аккуратный негрязный серый.
+   ⸻
 
 Архитектура (SSR + маленький client island)
 Сделай так, чтобы клиентским был только переключатель (и copy).
 
-Файлы/компоненты 1. components/sections/code-section/code-section.tsx — server component
-• получает проп code (тип)
-• рендерит левую колонку (title/description/cta/testimonial)
-• рендерит справа CodeShowcase (client island), но без передачи “сырого” HTML с dangerouslySetInnerHTML на клиент, если можно. 2. components/sections/code-section/code-showcase.client.tsx — client component
-• управляет выбором snippet (state)
-• показывает pill-переключатель
-• показывает code card и copy button
-• получает на вход массив snippets уже с подсвеченным HTML (или подсвечивает на сервере через пропы) 3. lib/shiki.ts — утилита подсветки
-• highlight(code: string, lang: string): Promise<string> → возвращает HTML для <code> (без внешних обёрток) или полный <pre> (на твой выбор)
-• используй Shiki с светлой темой (например github-light или vitesse-light)
-• кэшируй highlighter (singleton), чтобы не инициализировать на каждый вызов 4. lib/code-snippets.ts — helper
-• преобразует code.snippets в snippetsWithHtml, где у каждого есть highlightedHtml
-⸻
+Файлы/компоненты
 
-Layout (как в modern SaaS)
+1. components/sections/code-section/code-section.tsx — server component
+   • получает проп code (тип)
+   • рендерит левую колонку (title/description/cta/testimonial)
+   • рендерит справа CodeShowcase (client island), но без передачи “сырого” HTML с dangerouslySetInnerHTML на клиент, если можно. 2. components/sections/code-section/code-showcase.client.tsx — client component
+   • управляет выбором snippet (state)
+   • показывает pill-переключатель
+   • показывает code card и copy button
+   • получает на вход массив snippets уже с подсвеченным HTML (или подсвечивает на сервере через пропы) 3. lib/shiki.ts — утилита подсветки
+   • highlight(code: string, lang: string): Promise<string> → возвращает HTML для <code> (без внешних обёрток) или полный <pre> (на твой выбор)
+   • используй Shiki с светлой темой (например github-light или vitesse-light)
+   • кэшируй highlighter (singleton), чтобы не инициализировать на каждый вызов 4. lib/code-snippets.ts — helper
+   • преобразует code.snippets в snippetsWithHtml, где у каждого есть highlightedHtml
+   ⸻
+
+Layout
 Desktop (>= 1024)
 • 2 колонки:
 • слева: текст + testimonial (max-w)
@@ -646,6 +655,8 @@ SSG/SSR ограничения
 
 Данные
 Используй features:
+
+```
 "features": [
 {
 "title": "Increase subscription revenue without app releases",
@@ -706,6 +717,8 @@ SSG/SSR ограничения
 "imageSrc": "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@2x-768x631.webp"
 }
 ]
+```
+
 ⸻
 
 Архитектура компонентов (server + маленький client scrollspy) 1. components/sections/features/FeaturesSection.tsx — server component
@@ -812,21 +825,26 @@ Deliverables 1. FeaturesSection.tsx (server) 2. features-nav.client.tsx (client 
 
 Входные данные
 Используй features из content/home.json:
+
+```
 "features": {
 "title": "Features",
 "items": [ /* ... */ ]
 }
+```
 
 testimonial опциональный — рендерим только если есть.
 ⸻
 
-Что нужно удалить/заменить 1. Удали/выведи из page.tsx/layout старую реализацию:
+Что нужно удалить/заменить
 
-    •	sticky навигацию
-    •	IntersectionObserver scrollspy
-    •	“экраны”/стейджи на всю высоту
+1. Удали/выведи из page.tsx/layout старую реализацию:
 
-    2.	Удали неиспользуемые файлы.
+   • sticky навигацию
+   • IntersectionObserver scrollspy
+   • “экраны”/стейджи на всю высоту
+
+2. Удали неиспользуемые файлы.
 
 ⸻
 
@@ -940,6 +958,8 @@ Card shell
 Нужно добавить отдельную секцию Integrations на главной странице. Следуй тем же дизайн-принипам, что и в других секциях.
 
 В content/home.json есть:
+
+```
 "integrations": {
 "title": "Sync purchase data with other services",
 "description": "Forward subscription events to analytics and attribution services without coding.",
@@ -953,6 +973,7 @@ Card shell
 },
 "items": [{ "logoSrc": "...", "alt": "..." }]
 }
+```
 
 ⸻
 
@@ -975,7 +996,8 @@ Card shell
 • h2 с id="integrations-title" берётся из integrations.title
 ⸻
 
-4. Верх: 2 колонки (текст слева, цитата справа)
+4. Верх:
+   2 колонки (текст слева, цитата справа)
 
 Сделай сетку:
 • grid grid-cols-1 lg:grid-cols-12 gap-8 items-start
@@ -1047,12 +1069,16 @@ LogoTile (переиспользуемый)
 
 Входные данные
 Используем данные из content.json (или где у нас хранится контент):
+
+```
 "testimonials": {
 "title": "Developers from all kind of apps move to Adapty to grow their revenue",
 "items": [
 { "quote": "...", "author": "...", "role": "...", "avatarSrc": "...", "logoSrc": "..." }
 ]
 }
+```
+
 ⸻
 
 Дизайн и поведение
