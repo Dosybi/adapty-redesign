@@ -72,9 +72,10 @@ export function getContentStats(content: HomeContent) {
   let totalImages = heroMedia;
   content.sections?.forEach((section) => {
     if (Array.isArray(section.items)) {
-      section.items.forEach((item: any) => {
-        if (item.logoSrc) totalImages++;
-        if (item.media) totalImages += item.media.length;
+      section.items.forEach((item) => {
+        if ("logoSrc" in item && item.logoSrc) totalImages++;
+        if ("media" in item && Array.isArray(item.media))
+          totalImages += item.media.length;
       });
     }
   });

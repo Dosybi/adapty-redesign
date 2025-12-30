@@ -22,7 +22,13 @@ export interface Header {
   cta?: CTA;
 }
 
+export interface Banner {
+  mark: string;
+  link: Link;
+}
+
 export interface Hero {
+  banner?: Banner;
   title: string;
   subtitle?: string;
   primaryCta?: CTA;
@@ -54,7 +60,7 @@ export interface Footer {
 export interface Section {
   key: string;
   title?: string;
-  items?: Array<TrustedByItem | FeatureItem | any>;
+  items?: Array<TrustedByItem | FeatureItem | Record<string, unknown>>;
 }
 
 export interface HomeContent {
