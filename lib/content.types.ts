@@ -37,8 +37,14 @@ export interface Hero {
 }
 
 export interface TrustedByItem {
-  label: string;
+  label?: string;
+  alt?: string;
   logoSrc: string;
+}
+
+export interface TrustedBy {
+  title: string;
+  items: TrustedByItem[];
 }
 
 export interface FeatureItem {
@@ -66,6 +72,7 @@ export interface Section {
 export interface HomeContent {
   header: Header;
   hero: Hero;
+  trustedBy?: TrustedBy;
   sections: Section[];
   footer: Footer;
 }
