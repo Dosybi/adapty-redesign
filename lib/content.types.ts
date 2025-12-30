@@ -104,6 +104,47 @@ export interface Features {
   items: Feature[];
 }
 
+export interface IntegrationItem {
+  logoSrc: string;
+  alt: string;
+}
+
+export interface Integrations {
+  title: string;
+  description: string;
+  cta: Link;
+  testimonial: Testimonial;
+  items: IntegrationItem[];
+}
+
+export interface TestimonialItem {
+  quote: string;
+  author: string;
+  role: string;
+  avatarSrc: string;
+  logoSrc: string;
+}
+
+export interface Testimonials {
+  title: string;
+  items: TestimonialItem[];
+}
+
+export interface EnterpriseItem {
+  text: string;
+  emphasis?: "underline" | "bold" | "pill";
+}
+
+export interface EnterpriseColumn {
+  title: string;
+  items: EnterpriseItem[];
+}
+
+export interface Enterprise {
+  title: string;
+  columns: EnterpriseColumn[];
+}
+
 export interface FeatureItem {
   title: string;
   text: string;
@@ -134,6 +175,9 @@ export interface HomeContent {
   sla?: Sla;
   code?: Code;
   features?: Features;
+  integrations?: Integrations;
+  enterprise?: Enterprise;
+  testimonials?: Testimonials;
   sections: Section[];
   footer: Footer;
 }
