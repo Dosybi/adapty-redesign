@@ -1,0 +1,528 @@
+{
+  "header": {
+    "nav": [
+      {
+        "label": "EN",
+        "href": "#"
+      },
+      {
+        "label": "Blog",
+        "href": "https://adapty.io/blog/"
+      },
+      {
+        "label": "Pricing",
+        "href": "https://adapty.io/pricing/"
+      },
+      {
+        "label": "web2app",
+        "href": "https://funnelfox.com/?utm_source=adapty&utm_medium=website&utm_campaign=menu&__hstc=21428196.111ee13981b657a7fddb21f5891f6ac3.1767075077367.1767075077367.1767075077367.1&__hssc=21428196.1.1767075077367&__hsfp=1009270598"
+      },
+      {
+        "label": "Log in",
+        "href": "https://app.adapty.io/login"
+      },
+      {
+        "label": "Contact sales",
+        "href": "https://adapty.io/schedule-demo/"
+      },
+      {
+        "label": "Book a demo",
+        "href": "https://adapty.io/schedule-demo/"
+      }
+    ],
+    "cta": {
+      "label": "Sign up",
+      "href": "https://app.adapty.io/registration"
+    }
+  },
+  "hero": {
+    "banner": {
+      "mark": "Ebook",
+      "link": {
+        "label": "$100K playbook | download",
+        "href": "https://adapty.io/ebooks/100k-app-playbook/"
+      }
+    },
+    "title": "Revenue management for in-app purchases",
+    "subtitle": "Save months on integrating subscriptions and double your app revenue with paywall management.",
+    "primaryCta": {
+      "input": {
+        "type": "email",
+        "placeholder": "Email address"
+      },
+      "label": "Start for free",
+      "href": "/"
+    },
+    "secondaryCta": {
+      "label": "Book a demo",
+      "href": "/"
+    },
+    "media": [
+      {
+        "src": "https://adapty.io/assets/uploads/2025/02/adapty-paywall-demo-preview@2x.webp",
+        "alt": ""
+      },
+      {
+        "src": "https://adapty.io/assets/uploads/2025/02/adapty-overview@2x.webp",
+        "alt": ""
+      }
+    ]
+  },
+  "trustedBy": {
+    "title": "Trusted by 15,000+ apps and the world's largest app publishers",
+    "items": [
+      {
+        "alt": "Feeld",
+        "logoSrc": "https://adapty.io/assets/uploads/2024/01/logo-feeld-gray.svg"
+      },
+      {
+        "alt": "Bumble",
+        "logoSrc": "https://adapty.io/assets/uploads/2024/01/logo-bumble-gray.svg"
+      },
+      {
+        "alt": "Weewoo",
+        "logoSrc": "https://adapty.io/assets/uploads/2025/02/weewoo.svg"
+      },
+      {
+        "alt": "AppNation",
+        "logoSrc": "https://adapty.io/assets/uploads/2025/02/AppNation.webp"
+      },
+      {
+        "alt": "Almus",
+        "logoSrc": "https://adapty.io/assets/uploads/2025/02/almus.svg"
+      },
+      {
+        "alt": "Impala Studios",
+        "logoSrc": "https://adapty.io/assets/uploads/2024/01/logo-text-impala-studios-gray.svg"
+      },
+      {
+        "label": "HubX",
+        "logoSrc": "https://adapty.io/assets/uploads/2024/01/logo-hubx-gray.svg"
+      }
+    ]
+  },
+  "help": {
+    "title": "Help your team run the mobile subscription business. Faster and cheaper.",
+    "items": [
+      {
+        "imageSrc": "https://adapty.io/assets/uploads/2025/02/img-card-cover-sdk-install@2x.webp",
+        "button": {
+          "label": "For developers",
+          "href": "#"
+        },
+        "bullets": [
+          "Subscriptions SDK",
+          "Refund Saver",
+          "Remote config",
+          "Fallback paywalls"
+        ]
+      },
+      {
+        "imageSrc": "https://adapty.io/assets/uploads/2025/02/img-card-cover-charts@2x.webp",
+        "button": {
+          "label": "For app owners",
+          "href": "#"
+        },
+        "bullets": [
+          "Revenue analytics",
+          "LTV analytics",
+          "AI LTV and revenue predictions"
+        ]
+      },
+      {
+        "imageSrc": "https://adapty.io/assets/uploads/2025/02/img-card-cover-paywalls@2x.webp",
+        "button": {
+          "label": "For marketers",
+          "href": "#"
+        },
+        "bullets": [
+          "A/B testing",
+          "No-code Builder",
+          "Localizations",
+          "Targeting"
+        ]
+      }
+    ]
+  },
+  "sla": {
+    "title": "Adapty processes subscription revenue with the industry’s highest SLA Rate",
+    "items": [
+      {
+        "amount": "$2B",
+        "description": "tracked revenue"
+      },
+      {
+        "amount": "99.99%",
+        "description": "historical uptime"
+      },
+      {
+        "amount": "2.5B",
+        "description": "users served"
+      },
+      {
+        "amount": "60B",
+        "description": "API calls / month"
+      }
+    ]
+  },
+  "code": {
+    "title": "Integrate in-app purchases with a few lines of code",
+    "description": "Integrate IAPs within a few hours without server coding. Adapty handles the correct subscription state, taking everything under the hood, from free trials to refunds, in a simple, developer-friendly SDK.",
+    "button": {
+      "label": "Make subscriptions easy",
+      "href": "#"
+    },
+    "testimonial": {
+      "quote": "Adapty SDK made integrating in-app purchases a walk in the park. With just a few lines of code, I was able to implement subscriptions seamlessly for both iOS and Android.",
+      "author": "Magnús Ólafsson",
+      "role": "Chief Technology Officer at Smitten",
+      "avatarSrc": "https://adapty.io/assets/uploads/2024/02/Magnus-Olafsson-Smitten@2x.webp",
+      "logoSrc": "https://adapty.io/assets/uploads/2024/02/Smitten_Color-Logo-Small-02.webp"
+    },
+    "snippets": [
+      {
+        "id": "swift",
+        "label": "Swift",
+        "language": "swift",
+        "code": "// Your app's code\nimport Adapty\n\ndo {\n  try await Adapty.activate(\"PUBLIC_SDK_KEY\")\n\n  // Make a purchase, Adapty handles the rest\n  let purchaseResult = try await Adapty.makePurchase(product)\n  // successful purchase\n} catch {\n  // handle the error\n}\n"
+      },
+      {
+        "id": "kotlin",
+        "label": "Kotlin",
+        "language": "kotlin",
+        "code": "// Your app's code\nAdapty.activate(this, AdaptyConfig.Builder(\"YOUR_APP_KEY\").build())\n\n// Make a purchase, Adapty handles the rest\nAdapty.makePurchase(activity, product) { result ->\n  when (result) {\n    is AdaptyResult.Success -> {\n      if (result.value is AdaptyPurchaseResult.Success)\n        // successful purchase\n    }\n    is AdaptyResult.Error -> {\n      // handle the error\n    }\n  }\n}\n"
+      },
+      {
+        "id": "react-native",
+        "label": "React Native",
+        "language": "javascript",
+        "code": "// Your app's code\nimport { adapty } from 'react-native-adapty';\nawait adapty.activate('YOUR_APP_KEY');\n\n// Make a purchase, Adapty handles the rest\ntry {\n  const profile = await adapty.makePurchase(product);\n  // successful purchase\n} catch (error) {\n  // handle the error\n}\n"
+      },
+      {
+        "id": "flutter",
+        "label": "Flutter",
+        "language": "dart",
+        "code": "// Your app's code\nimport 'package:adapty_flutter/adapty_flutter.dart';\n\ntry {\n  await Adapty().activate();\n\n  // Make a purchase, Adapty handles the rest\n  final purchaseResult = await Adapty().makePurchase(product: product);\n  // successful purchase\n} on AdaptyError catch (adaptyError) {\n  // handle the error\n} catch (error) {\n  // handle other errors\n}\n"
+      },
+      {
+        "id": "unity",
+        "label": "Unity",
+        "language": "csharp",
+        "code": "// Your app's code\nusing AdaptySDK;\n\nAdapty.makePurchase(product, (profile, error) => {\n  if (error == null) {\n    // successful purchase\n  }\n});\n"
+      }
+    ]
+  },
+  "Sdk": {
+    "title": "Get the SDK for your platform",
+    "items": [
+      {
+        "title": "Swift SDK",
+        "logo": {
+          "src": "https://adapty.io/assets/uploads/2024/01/icon-swift-64x64-1.svg"
+        },
+        "href": "#"
+      },
+      {
+        "title": "Kotlin SDK",
+        "logo": {
+          "src": "https://adapty.io/assets/uploads/2024/01/icon-kotlin-64x64-1.svg"
+        },
+        "href": "#"
+      },
+      {
+        "title": "React Native SDK",
+        "logo": {
+          "src": "https://adapty.io/assets/uploads/2024/01/icon-react-native-64x64-1.svg"
+        },
+        "href": "#"
+      },
+      {
+        "title": "Unity SDK",
+        "logo": {
+          "src": "https://adapty.io/assets/uploads/2024/01/icon-unity-white-64x64-1.svg"
+        },
+        "href": "#"
+      },
+      {
+        "title": "Flutter SDK",
+        "logo": {
+          "src": "https://adapty.io/assets/uploads/2024/01/icon-flutter-64x64-1.svg"
+        },
+        "href": "#"
+      },
+      {
+        "title": "Capacitor SDK",
+        "logo": {
+          "src": "https://adapty.io/assets/uploads/2025/10/capacitor-logo.svg"
+        },
+        "href": "#"
+      },
+      {
+        "title": "Kotlin Multiplatform",
+        "logo": {
+          "src": "https://adapty.io/assets/uploads/2025/10/kmp-logo.svg"
+        },
+        "href": "#"
+      },
+      {
+        "title": "FlutterFlow",
+        "logo": {
+          "src": "https://adapty.io/assets/uploads/2024/09/icon-flutterflow-64x64-1.svg"
+        },
+        "href": "#"
+      },
+      {
+        "title": "Web API",
+        "logo": {
+          "src": "https://adapty.io/assets/uploads/2024/01/icon-web-64x64-1.svg"
+        },
+        "href": "#"
+      },
+      {
+        "title": "Stripe",
+        "logo": {
+          "src": "https://adapty.io/assets/uploads/2024/02/icon-stripe-64x64-1.svg"
+        },
+        "href": "#"
+      }
+    ]
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      {
+        "title": "Increase subscription revenue without app releases",
+        "description": "Manage, target, localize and personalize paywalls without leaving your browser.",
+        "cta": {
+          "label": "Increase app revenue",
+          "href": "#"
+        },
+        "imageSrc": "https://adapty.io/assets/uploads/2025/05/paywall-ab-testing@2x.webp",
+        "testimonial": {
+          "quote": "“Whether it's A/B testing paywalls, predicting LTV, or analyzing subscription metrics, Adapty is the ultimate toolkit for app success.”",
+          "author": "Ilgar Tali",
+          "role": "Founder & Chief Vision Officer",
+          "avatarSrc": "https://adapty.io/assets/uploads/2024/02/Ilgar-Tali-Smartist@2x.webp",
+          "logoSrc": "https://adapty.io/assets/uploads/2024/03/logo-smartist-black@2x.png"
+        }
+      },
+      {
+        "title": "Cut refund rate by 40%",
+        "description": "Stop losing revenue on refunds – Adapty automatically shares user activity data with Apple for refund requests and reduces it.",
+        "cta": {
+          "label": "Set up Refund Saver",
+          "href": "#"
+        },
+        "imageSrc": "https://adapty.io/assets/uploads/2025/05/refund-rate@2x-1024x768.webp",
+        "testimonial": {
+          "quote": "“I never thought that doing something about refunds could make such a difference. We just flipped the switch, set it up, and suddenly, it felt like we stopped letting money slip away.”",
+          "author": "Berk Çağatay Albayrak",
+          "role": "Sr. Product Manager",
+          "avatarSrc": "https://adapty.io/assets/uploads/2024/12/avatar-berk-cagatay-gray@3x.webp",
+          "logoSrc": "https://adapty.io/assets/uploads/2024/12/app-icon-fotorama-original.webp"
+        }
+      },
+      {
+        "title": "Know your subscription numbers at any moment",
+        "description": "Measure your in-app economy from trials to refunds with a ready-to-go, real-time subscription BI.",
+        "cta": {
+          "label": "See subscription BI",
+          "href": "#"
+        },
+        "imageSrc": "https://adapty.io/assets/uploads/2024/01/app-monetization-strategies@2x.webp",
+        "testimonial": {
+          "quote": "“Adapty's analytics provides invaluable insights into our app's performance. With detailed real-time metrics like revenue, ARPU, and churn rate, we make informed decisions to optimize our monetization strategy.”",
+          "author": "Nikolay Chebotarev",
+          "role": "Head of UA at Moonly.app",
+          "avatarSrc": "https://adapty.io/assets/uploads/2024/02/Nikolay.png",
+          "logoSrc": "https://adapty.io/assets/uploads/2023/12/app_icon_Moonly.svg"
+        }
+      },
+      {
+        "title": "No-code paywall builder",
+        "description": "Build beautiful native paywalls for iOS, Android, Flutter, and React Native without a dev team.",
+        "cta": {
+          "label": "Create paywalls within minutes",
+          "href": "#"
+        },
+        "imageSrc": "https://adapty.io/assets/uploads/2024/01/no-code-paywall-builder@2x.webp",
+        "testimonial": {
+          "quote": "“Adapty’s Paywall Builder and A/B testing tools paired together are a game changer for anyone trying to do high-velocity testing and find quick wins.”",
+          "author": "Mike McSweeney",
+          "role": "Chief Product Officer",
+          "avatarSrc": "https://adapty.io/assets/uploads/2024/02/Mike-McSweeney-Moodworks-inc@2x.webp",
+          "logoSrc": "https://adapty.io/assets/uploads/2024/02/app-icon-cat.png"
+        }
+      },
+      {
+        "title": "Boost app revenue fast with web funnels",
+        "description": "Build and launch web-to-app funnels, integrate payments, optimize with A/B testing and scale globally — all in one platform, no coding needed.",
+        "cta": {
+          "label": "Explore FunnelFox",
+          "href": "#"
+        },
+        "imageSrc": "https://adapty.io/assets/uploads/2025/04/funnelfox-feature@2x-768x631.webp"
+      }
+    ]
+  },
+  "integrations": {
+    "title": "Sync purchase data with other services",
+    "description": "Forward subscription events to analytics and attribution services without coding.",
+    "cta": {
+      "label": "Explore integrations",
+      "href": "#"
+    },
+    "testimonial": {
+      "quote": "“They have a great external API that makes it easy to pass related events to other analytics tools such as Amplitude and Mixpanel.”",
+      "author": "Chris Bick",
+      "role": "Founder and CEO",
+      "avatarSrc": "https://adapty.io/assets/uploads/2024/01/avatar-chris-bick.webp",
+      "logoSrc": "https://adapty.io/assets/uploads/2023/12/logo-bickster.png"
+    },
+    "items": [
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-airbridge.svg",
+        "alt": "Airbridge"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-adjust.svg",
+        "alt": "Adjust"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-amazon-s3.svg",
+        "alt": "Amazon S3"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-amplitude.svg",
+        "alt": "Amplitude"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/04/icon-apple-ads-text.svg",
+        "alt": "Apple Ads"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-appsflyer.svg",
+        "alt": "AppsFlyer"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-appmetrica.svg",
+        "alt": "AppMetrica"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-asapty.svg",
+        "alt": "Asapty"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-branch.svg",
+        "alt": "Branch"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-braze.svg",
+        "alt": "Braze"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/04/logo-facebook-blue-text.svg",
+        "alt": "Facebook"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-firebase-and-ga.svg",
+        "alt": "Firebase and Google Analytics"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-google-cloud-storage.svg",
+        "alt": "Google Cloud Storage"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-mixpanel.svg",
+        "alt": "Mixpanel"
+      },
+      {
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-onesignal.svg",
+        "alt": "OneSignal"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Developers from all kind of apps move to Adapty to grow their revenue",
+    "items": [
+      {
+        "quote": "“Migrating off RevenueCat was not an easy decision for us. We’ve chosen Adapty because we believe they are a better partner as we grow. Looking back it was the right call. Despite some hiccups, the Adapty team was always there to help us during the migration and afterward, and their support is top-notch. I recommend Adapty as a reliable partner.”",
+        "author": "Cem Ortabas",
+        "role": "Co-founder and CEO, HubX",
+        "avatarSrc": "https://adapty.io/assets/uploads/2023/12/photo-Cem-Ortabas.webp",
+        "logoSrc": "https://adapty.io/assets/uploads/2023/12/logo-HabX-white.svg"
+      },
+      {
+        "quote": "“We’ve been working with Adapty since 2021 and I couldn’t be happier about it. We’ve tried other subscription management platforms in the past so I can compare. Adapty introduced numerous features over the years and constantly helped us grow. They have the best analytics on the market and all the integrations you can think of. If you looking to boost the revenue of your app, I definitely recommend Adapty.”",
+        "author": "Chris Bick",
+        "role": "Founder and CEO, Bickster",
+        "avatarSrc": "https://adapty.io/assets/uploads/2023/12/photo-Chris-Bick.webp",
+        "logoSrc": "https://adapty.io/assets/uploads/2023/12/logo-bickster.png"
+      },
+      {
+        "quote": "“We chose Adapty for its powerful paywall A/B testing capabilities, which helped us optimize our monetization strategy effectively. The user-friendly platform, flexible pricing, and exceptional customer support make Adapty a superior choice over competitors.”",
+        "author": "Yalçın Özdemir",
+        "role": "Founder & CEO, AppNation",
+        "avatarSrc": "https://adapty.io/assets/uploads/2024/02/Asman.webp",
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/logo-AppNation-white.png"
+      },
+      {
+        "quote": "“Adapty's platform makes it easy for non-developers to create and manage A/B tests, paywalls, product mix and pricing structure. They have a great external API that makes it easy to pass related events to other analytics tools like Amplitude and Mixpanel.”",
+        "author": "Kyle Smith",
+        "role": "Head of data at Smitten Dating",
+        "avatarSrc": "https://adapty.io/assets/uploads/2024/02/Kyle2.webp",
+        "logoSrc": "https://adapty.io/assets/uploads/2024/02/Smitten_Color-Logo-Small-02.webp"
+      }
+    ]
+  },
+  "enterprise": {
+    "title": "Enterprise-grade platform",
+    "columns": [
+      {
+        "title": "Secure",
+        "items": [
+          { "text": "SOC2 verified" },
+          { "text": "Encrypted" },
+          { "text": "24/7 global fraud monitoring" }
+        ]
+      },
+      {
+        "title": "Reliable",
+        "items": [
+          { "text": "99.99% SLA", "emphasis": "underline" },
+          { "text": "Over $500M/year of in-app purchases processed" }
+        ]
+      },
+      {
+        "title": "Responsive",
+        "items": [
+          { "text": "Dedicated customer success manager" },
+          { "text": "Direct communication via Slack" },
+          { "text": "Live chat on the website" },
+          { "text": "Four ways to reach us" }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "Product",
+        "links": []
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "label": "About us",
+            "href": "https://adapty.io/about-us/"
+          },
+          {
+            "label": "Contact us",
+            "href": "https://adapty.io/contacts/"
+          }
+        ]
+      }
+    ]
+  }
+}
