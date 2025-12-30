@@ -68,6 +68,29 @@ export interface Sla {
   items: SlaMetric[];
 }
 
+export interface Testimonial {
+  quote: string;
+  author: string;
+  role: string;
+  avatarSrc: string;
+  logoSrc: string;
+}
+
+export interface CodeSnippet {
+  id: string;
+  label: string;
+  language: string;
+  code: string;
+}
+
+export interface Code {
+  title: string;
+  description: string;
+  button: Link;
+  testimonial: Testimonial;
+  snippets: CodeSnippet[];
+}
+
 export interface FeatureItem {
   title: string;
   text: string;
@@ -96,6 +119,7 @@ export interface HomeContent {
   trustedBy?: TrustedBy;
   help?: Help;
   sla?: Sla;
+  code?: Code;
   sections: Section[];
   footer: Footer;
 }
