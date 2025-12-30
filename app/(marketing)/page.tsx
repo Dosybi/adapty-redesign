@@ -4,6 +4,7 @@ import { TrustedBySection } from "@/components/sections/TrustedBySection";
 import { HelpSection } from "@/components/sections/HelpSection";
 import { SlaSection } from "@/components/sections/SlaSection";
 import { CodeSection } from "@/components/sections/code-section/code-section";
+import { FeaturesRail } from "@/components/sections/features/features-rail";
 
 export default async function MarketingPage() {
   const content = loadHomeContent();
@@ -15,6 +16,7 @@ export default async function MarketingPage() {
       {content.help && <HelpSection help={content.help} />}
       {content.sla && <SlaSection sla={content.sla} />}
       {content.code && <CodeSection code={content.code} />}
+      {content.features && <FeaturesRail features={content.features} />}
     </main>
   );
 }

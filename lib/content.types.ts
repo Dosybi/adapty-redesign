@@ -91,6 +91,19 @@ export interface Code {
   snippets: CodeSnippet[];
 }
 
+export interface Feature {
+  title: string;
+  description: string;
+  cta: Link;
+  imageSrc: string;
+  testimonial?: Testimonial;
+}
+
+export interface Features {
+  title: string;
+  items: Feature[];
+}
+
 export interface FeatureItem {
   title: string;
   text: string;
@@ -120,6 +133,7 @@ export interface HomeContent {
   help?: Help;
   sla?: Sla;
   code?: Code;
+  features?: Features;
   sections: Section[];
   footer: Footer;
 }
