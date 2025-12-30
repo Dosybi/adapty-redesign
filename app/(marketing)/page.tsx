@@ -8,9 +8,7 @@ export default function MarketingPage() {
   return (
     <main>
       <HeroSection hero={content.hero} />
-      {content.trustedBy && (
-        <TrustedBySection trustedBy={content.trustedBy} />
-      )}
+      {content.trustedBy && <TrustedBySection trustedBy={content.trustedBy} />}
     </main>
   );
 }

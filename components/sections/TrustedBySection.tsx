@@ -63,7 +63,7 @@ export function TrustedBySection({ trustedBy }: TrustedBySectionProps) {
             </div>
 
             {/* Mobile horizontal scroll */}
-            <div className="overflow-x-auto scrollbar-hide md:hidden">
+            <div className="scrollbar-hide overflow-x-auto md:hidden">
               <div className="flex items-center gap-x-8 px-4">
                 {trustedBy.items.map((item, index) => (
                   <LogoItem
