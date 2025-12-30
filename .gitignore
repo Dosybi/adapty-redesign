@@ -11,3 +11,10 @@ coverage
 test-results/
 playwright-report/
 playwright/.cache/
+
+# Scraper output
+scripts/out/*.json
+!scripts/out/.gitkeep
+
+# Downloaded assets
+public/remote-assets/

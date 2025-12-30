@@ -117,3 +117,51 @@ SCRAPE_URL=https://example.com npm run scrape
 - Размер viewport
 - Таймауты
 - Параметры скроллинга
+
+## Скачивание ассетов
+
+После скрапинга можно автоматически скачать все изображения локально.
+
+### Использование
+
+```bash
+npm run assets:home
+```
+
+Скрипт:
+
+1. Читает `scripts/out/home.raw.json`
+2. Собирает уникальные URL из `images[].url`, `images[].srcset[]`, `backgroundImages[].url`
+3. Скачивает их в `public/remote-assets/` (параллельно, до 8 файлов одновременно)
+4. Генерирует стабильные имена файлов на основе hostname + pathname
+5. Сохраняет маппинг sourceUrl → localPath в `scripts/out/home.assets.json`
+
+### Формат маппинга
+
+```json
+{
+  "downloadedAt": "2025-12-30T06:20:04.498Z",
+  "items": [
+    {
+      "sourceUrl": "https://...",
+      "localPath": "/remote-assets/adapty_io_image.webp",
+      "contentType": "image/webp",
+      "bytes": 58476,
+      "sha256": "..."
+    }
+  ],
+  "failed": []
+}
+```
+
+### Утилита для работы с ассетами
+
+В `lib/assets.ts` доступны функции для работы с маппингом:
+
+```typescript
+import { getAssetPath } from "@/lib/assets";
+
+// Получение локального пути (или fallback на исходный URL)
+const localPath = getAssetPath("https://adapty.io/image.webp");
+// => "/remote-assets/adapty_io_image.webp"
+```
