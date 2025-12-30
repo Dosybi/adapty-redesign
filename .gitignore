@@ -18,3 +18,7 @@ scripts/out/*.json
 
 # Downloaded assets
 public/remote-assets/
+
+# Generated content
+content/*.json
+!content/.gitkeep

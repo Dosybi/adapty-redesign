@@ -9,7 +9,8 @@
     "lint": "next lint",
     "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,css,md}\"",
     "scrape": "node scripts/scrape.js",
-    "assets:home": "tsx scripts/download-assets.ts"
+    "assets:home": "tsx scripts/download-assets.ts",
+    "content:home": "tsx scripts/content-home.ts"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",

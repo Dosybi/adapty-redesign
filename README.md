@@ -31,6 +31,8 @@ npm run dev
 - `npm run lint` - проверка кода с ESLint
 - `npm run format` - форматирование кода с Prettier
 - `npm run scrape` - запуск скрапера для извлечения контента с сайта
+- `npm run assets:home` - скачивание всех ассетов локально
+- `npm run content:home` - генерация структурированного контента
 
 ## Структура проекта
 
@@ -164,4 +166,71 @@ import { getAssetPath } from "@/lib/assets";
 // Получение локального пути (или fallback на исходный URL)
 const localPath = getAssetPath("https://adapty.io/image.webp");
 // => "/remote-assets/adapty_io_image.webp"
+```
+
+## Структурированный контент
+
+После скрапинга и скачивания ассетов можно сгенерировать структурированный контент.
+
+### Использование
+
+```bash
+npm run content:home
+```
+
+Команда:
+
+1. Запускает `build-home-content.ts`
+2. Читает `home.raw.json` + `home.assets.json`
+3. Парсит и структурирует контент в разделы: header, hero, sections, footer
+4. Применяет маппинг изображений (sourceUrl → localPath)
+5. Сохраняет в `content/home.json`
+6. Валидирует результат (проверяет hero.title)
+7. Печатает статистику
+
+### Формат структурированного контента
+
+```json
+{
+  "header": {
+    "nav": [{ "label": "...", "href": "..." }],
+    "cta": { "label": "...", "href": "..." }
+  },
+  "hero": {
+    "title": "...",
+    "subtitle": "...",
+    "primaryCta": { "label": "...", "href": "..." },
+    "secondaryCta": { "label": "...", "href": "..." },
+    "media": [{ "src": "/remote-assets/...", "alt": "..." }]
+  },
+  "sections": [
+    {
+      "key": "trustedBy",
+      "title": "...",
+      "items": [{ "label": "...", "logoSrc": "/remote-assets/..." }]
+    },
+    {
+      "key": "features",
+      "title": "...",
+      "items": [{ "title": "...", "text": "...", "bullets": [] }]
+    }
+  ],
+  "footer": {
+    "columns": [
+      {
+        "title": "...",
+        "links": [{ "label": "...", "href": "..." }]
+      }
+    ]
+  }
+}
+```
+
+### Загрузка контента в коде
+
+```typescript
+import { loadHomeContent } from "@/lib/content";
+
+const content = loadHomeContent();
+console.log(content.hero.title); // "Revenue management for in-app purchases"
 ```
