@@ -58,6 +58,16 @@ export interface Help {
   items: HelpItem[];
 }
 
+export interface SlaMetric {
+  amount: string;
+  description: string;
+}
+
+export interface Sla {
+  title: string;
+  items: SlaMetric[];
+}
+
 export interface FeatureItem {
   title: string;
   text: string;
@@ -85,6 +95,7 @@ export interface HomeContent {
   hero: Hero;
   trustedBy?: TrustedBy;
   help?: Help;
+  sla?: Sla;
   sections: Section[];
   footer: Footer;
 }
